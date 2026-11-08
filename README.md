@@ -166,6 +166,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Domain Name Brainstormer](./domain-name-brainstormer/) - Generates creative domain name ideas and checks availability across multiple TLDs including .com, .io, .dev, and .ai extensions.
 - [Internal Comms](./internal-comms/) - Helps write internal communications including 3P updates, company newsletters, FAQs, status reports, and project updates using company-specific formats.
 - [Lead Research Assistant](./lead-research-assistant/) - Identifies and qualifies high-quality leads by analyzing your product, searching for target companies, and providing actionable outreach strategies.
+- [Storylink Instagram Skills](https://github.com/storylinkpro/storylink-skills) - Three skills for Instagram analytics through the Storylink MCP server: weekly or monthly reports per account, finding why views dropped, and comparing your best and worst content to suggest what to post. *By [@storylinkpro](https://github.com/storylinkpro)*
 
 ### Communication & Writing
 
